@@ -1,0 +1,14 @@
+{
+    "name": "kwerkers",
+    "version": "1.0.0",
+    "description": "Simple feedback system for Kwerkers",
+    "main": "server/app.js",
+    "scripts": {
+      "start": "node server/app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "sqlite3": "^5.1.6"
+    }
+  }
+  
